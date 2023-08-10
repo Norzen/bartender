@@ -6,5 +6,5 @@ npm install
 
 npm start
 
-![Bartender](https://github.com/Norzen/bartender/raw/master/src/assets/screenshots/desktop.png)
+![Bartender](https://github.com/Norzen/bartender/blob/main/src/assets/screenshots/desktop.png)
 
