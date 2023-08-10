@@ -1,0 +1,134 @@
+{ "data" :
+[
+  {
+    "name": "Белый русский",
+    "ingredients": [
+      {
+        "name": "Ликер",
+        "part": 1,
+        "color": "#66462F"
+      },
+      {
+        "name": "Водка",
+        "part": 1,
+        "color": "#F5EDDA"
+      },
+      {
+        "name": "Сливки",
+        "part": 1,
+        "color": "#CA9E7B"
+      }
+    ]
+  },
+  {
+    "name": "Маргарита",
+    "ingredients": [
+      {
+        "name": "Куантро",
+        "part": 1,
+        "color": "#ffc501"
+      },
+      {
+        "name": "Текила",
+        "part": 2,
+        "color": "#fdfd96"
+      },
+      {
+        "name": "Сок лайма",
+        "part": 1,
+        "color": "#99FF1D"
+      }
+    ]
+  },
+  {
+    "name": "Боярский",
+    "ingredients": [
+      {
+        "name": "Гренадин",
+        "part": 5,
+        "color": "#FCA43C"
+      },
+      {
+        "name": "Водка",
+        "part": 5,
+        "color": "#F5EDDA"
+      },
+      {
+        "name": "Тобаско",
+        "part": 1,
+        "color": "#E8F6F9"
+      }
+    ]
+  },
+  {
+    "name": "Кровавая Мери",
+    "ingredients": [
+      {
+        "name": "Водка с перцем",
+        "part": 2,
+        "color": "#F5EDDA"
+      },
+      {
+        "name": "Томатный сок",
+        "part": 4,
+        "color": "#ff6347"
+      },
+      {
+        "name": "Сок лимона",
+        "part": 0.5,
+        "color": "#FFFAC8"
+      }
+    ]
+  },
+  {
+    "name": "Космополитан",
+    "ingredients": [
+      {
+        "name": "Водка",
+        "part": 1.5,
+        "color": "#F5EDDA"
+      },
+      {
+        "name": "Сок лайма",
+        "part": 0.25,
+        "color": "#99FF1D"
+      },
+      {
+        "name": "Трипл-сек",
+        "part": 0.25,
+        "color": "#FCA43C"
+      },
+      {
+        "name": "Клюквенный сок",
+        "part": 0.25,
+        "color": "#ba4242"
+      },
+      {
+        "name": "Лед",
+        "part": 1.5,
+        "color": "#E8F6F9"
+      }
+    ]
+  },
+  {
+    "name": "Текила санрайз",
+    "ingredients": [
+      {
+        "name": "Текила",
+        "part": 2,
+        "color": "#66462F"
+      },
+      {
+        "name": "Апельсиновый сок",
+        "part": 4,
+        "color": "#FCA43C"
+      },
+      {
+        "name": "Гренадин",
+        "part": 0.5,
+        "color": "#F9677A"
+      }
+    ]
+  }
+]
+}
